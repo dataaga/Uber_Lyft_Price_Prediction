@@ -12,14 +12,14 @@ Conclusion
 Contributing
 License
 
-Introduction
-This project aims to predict the prices of Uber and Lyft rides in Boston, MA, using machine learning techniques. The increasing popularity of ride-hailing services has led to a demand for accurate fare prediction models, which can be beneficial to both service providers and passengers. By building a reliable price prediction model, I can help users make informed decisions about their transportation choices and assist ride-hailing companies in optimizing their pricing strategies.
+Introduction <br>
+This project aims to predict the prices of Uber and Lyft rides in Boston, MA, using machine learning techniques. The increasing popularity of ride-hailing services has led to a demand for accurate fare prediction models, which can be beneficial to both service providers and passengers. By building a reliable price prediction model, I can help users make informed decisions about their transportation choices and assist ride-hailing companies in optimizing their pricing strategies. <br>
 
-Data Source
-The dataset used in this project is sourced from Kaggle and can be found here. It contains historical data from Uber and Lyft rides in Boston, MA, including various attributes such as pickup and dropoff locations, timestamps, and ride prices. I will use this data to train and evaluate our prediction models.
+Data Source <br>
+The dataset used in this project is sourced from Kaggle and can be found here. It contains historical data from Uber and Lyft rides in Boston, MA, including various attributes such as pickup and dropoff locations, timestamps, and ride prices. I will use this data to train and evaluate our prediction models. <br>
 
-Dataset Description
-The dataset comprises the following columns:
+Dataset Description <br>
+The dataset comprises the following columns: <br>
 
 datetime: Timestamp of the ride.
 cab_type: The type of ride service (Uber/Lyft).
